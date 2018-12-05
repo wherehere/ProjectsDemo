@@ -53,7 +53,18 @@
 }
 .line {
 }
+.arrow {
+}
 ._流程形状 {
+}
+._连接线 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+  text-align:center;
+  line-height:normal;
 }
 .image {
 }
