@@ -1084,7 +1084,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:143px;
+  width:171px;
   height:24px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1101,9 +1101,9 @@
 }
 #u1737 {
   position:absolute;
-  left:1966px;
+  left:1951px;
   top:90px;
-  width:143px;
+  width:171px;
   height:24px;
   font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
   font-weight:650;
@@ -1115,7 +1115,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:143px;
+  width:171px;
   word-wrap:break-word;
 }
 #u1739_div {
@@ -1495,21 +1495,21 @@
   position:absolute;
   left:0px;
   top:-4px;
-  width:78px;
+  width:85px;
   height:8px;
 }
 #u1763_seg1 {
   position:absolute;
-  left:70px;
+  left:77px;
   top:-452px;
   width:8px;
   height:456px;
 }
 #u1763_seg2 {
   position:absolute;
-  left:70px;
+  left:77px;
   top:-452px;
-  width:53px;
+  width:46px;
   height:8px;
 }
 #u1763_seg3 {
@@ -1521,8 +1521,8 @@
 }
 #u1764 {
   position:absolute;
-  left:24px;
-  top:-220px;
+  left:31px;
+  top:-212px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
@@ -1750,8 +1750,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:301px;
-  height:18px;
+  width:286px;
+  height:126px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1762,17 +1762,17 @@
 }
 #u1781 {
   position:absolute;
-  left:2807px;
-  top:338px;
-  width:301px;
-  height:18px;
+  left:2814px;
+  top:308px;
+  width:286px;
+  height:126px;
 }
 #u1782 {
   position:absolute;
   left:0px;
   top:0px;
-  width:301px;
-  white-space:nowrap;
+  width:286px;
+  word-wrap:break-word;
 }
 #u1783 {
   position:absolute;
@@ -1785,21 +1785,21 @@
   position:absolute;
   left:0px;
   top:-4px;
-  width:64px;
+  width:58px;
   height:8px;
 }
 #u1783_seg1 {
   position:absolute;
-  left:56px;
+  left:50px;
   top:-95px;
   width:8px;
   height:99px;
 }
 #u1783_seg2 {
   position:absolute;
-  left:56px;
+  left:50px;
   top:-95px;
-  width:38px;
+  width:44px;
   height:8px;
 }
 #u1783_seg3 {
@@ -1811,8 +1811,8 @@
 }
 #u1784 {
   position:absolute;
-  left:10px;
-  top:-40px;
+  left:4px;
+  top:-46px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
