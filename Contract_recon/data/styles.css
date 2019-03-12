@@ -9,6 +9,8 @@
 }
 .box_1 {
 }
+.ellipse {
+}
 ._图片 {
 }
 .button {
@@ -68,6 +70,10 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -85,4 +91,7 @@
   text-align:left;
 }
 .icon {
+}
+._图片1 {
+  color:#000000;
 }
