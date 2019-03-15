@@ -9,6 +9,8 @@
 }
 .box_1 {
 }
+.image {
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -100,6 +102,9 @@
 .icon {
 }
 .radio_button {
+  text-align:left;
+}
+.tree_node {
   text-align:left;
 }
 .button {
