@@ -13,6 +13,8 @@
 }
 ._图片 {
 }
+.button {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -86,8 +88,12 @@
   color:#000000;
   text-align:left;
 }
+._流程形状 {
+}
 ._图片1 {
   color:#000000;
 }
 .icon {
+}
+.flow_shape {
 }
